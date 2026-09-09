@@ -2,4 +2,5 @@
 Assignments for "Sensing the World Module" 2026
 
 ##Programming-Activities- 
-September 9 Basic Printout and Blinking 
+Program1.py - Made Sept 9. Prints "Hello World"
+Program2.py - Made Sept 9. Prints my name 
