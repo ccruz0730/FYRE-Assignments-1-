@@ -12,3 +12,7 @@ Program4.py - Made Sept 9. Causes Built-In LED to Blink
 
 Program5.py - Made Sept 14. Created intruder-alarm system using LLM assistance
 
+Program6.py
+
+Program7.py - Made Sept 16. Created system to make a Servo Spin when 
+a button was pressed and collected/analyzed Rain Drop Sensor Data
