@@ -1,18 +1,12 @@
 # FYRE-Assignments-1-
 Assignments for "Sensing the World Module" 2026
 
-##Programming-Activities- 
-Program1.py - Made Sept 9. Prints "Hello World"
+##Programming-Activities - Features code used for in-class worksheets and assignments
 
-Program2.py - Made Sept 9. Prints my name 
+##Program 7: CSV Files 
 
-Program3.py - Made Sept 9. Prints my name using variables
+##Reflections - Contains all class reflections required throughout the module 
 
-Program4.py - Made Sept 9. Causes Built-In LED to Blink
+##Final Project - Contains all components of final project including code and presentation 
 
-Program5.py - Made Sept 14. Created intruder-alarm system using LLM assistance
 
-Program6.py - Made Sept 16. Built circuit that moves a servo 180 degrees when a button is held, then back when released
-
-Program7.py - Made Sept 16. Created system to make a Servo Spin when 
-a button was pressed and collected/analyzed Rain Drop Sensor Data
